@@ -1,7 +1,7 @@
 export default function Skills() {
     const skills = [
-      "React", "Node.js", "Express", "MongoDB",
-      "JavaScript", "HTML", "CSS", "Git", "Docker"
+       "Node.js", "React", "Express","MYSQL", "MongoDB",
+      "JavaScript", "AWS", "Redis", "Git", "Docker", "Firebase", "Socket.io"
     ];
   
     return (
